@@ -12,18 +12,18 @@ When developing this application there were a variety of source codes, tutorials
 A list of packages used for the backend server environment.
 
 
-| Package             | Description                                 |
-|---------------------|---------------------------------------------|
-| `express-generator` |                                             |
-| `https`             |                                             |
-| `body-parser`       | https://www.npmjs.com/package/body-parser   |
-| `cookie-parser`     | https://www.npmjs.com/package/cookie-parser |
-| `CORS`              | https://www.npmjs.com/package/cors          |
-| `express`           | https://www.npmjs.com/package/express       |
-| `mongodb`           | https://www.npmjs.com/package/mongodb       |
-| `mongoose`          | https://www.npmjs.com/package/mongoose      |
-| `morgan`            | https://www.npmjs.com/package/morgan        |
-| `nodemon`           | https://www.npmjs.com/package/nodemon       |
+| Package             | Description                                     |
+|---------------------|-------------------------------------------------|
+| `express-generator` | https://expressjs.com/en/starter/generator.html |
+| `https`             |                                                 |
+| `body-parser`       | https://www.npmjs.com/package/body-parser       |
+| `cookie-parser`     | https://www.npmjs.com/package/cookie-parser     |
+| `CORS`              | https://www.npmjs.com/package/cors              |
+| `express`           | https://www.npmjs.com/package/express           |
+| `mongodb`           | https://www.npmjs.com/package/mongodb           |
+| `mongoose`          | https://www.npmjs.com/package/mongoose          |
+| `morgan`            | https://www.npmjs.com/package/morgan            |
+| `nodemon`           | https://www.npmjs.com/package/nodemon           |
 
 
 ---

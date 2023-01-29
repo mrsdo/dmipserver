@@ -1,19 +1,15 @@
 {
-  "name": "dmipserver",
-  "version": "1.0.0",
-  "description": "DMIP: Dolce Management & Investment Server",
-  "main": "app.js",
+  "name": "mern-work",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mrsdo/apps.rdolcegroup.com.git"
-  },
-  "author": "~MDOLCE",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mrsdo/apps.rdolcegroup.com/issues"
-  },
-  "homepage": "https://github.com/mrsdo/apps.rdolcegroup.com#readme"
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "ejs": "3.1.8",
+    "express": "4.18.2",
+    "http-errors": "~2.0.0",
+    "morgan": "~1.10.0"
+  }
 }
