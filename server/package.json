@@ -1,0 +1,19 @@
+{
+  "name": "dmipserver",
+  "version": "1.0.0",
+  "description": "DMIP: Dolce Management & Investment Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsdo/apps.rdolcegroup.com.git"
+  },
+  "author": "~MDOLCE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrsdo/apps.rdolcegroup.com/issues"
+  },
+  "homepage": "https://github.com/mrsdo/apps.rdolcegroup.com#readme"
+}
